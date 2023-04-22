@@ -51,7 +51,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado del flow 2
 
-![](https://github.com/Cecilia-X-M/flow2-NodeRed/blob/main/flow2.png)
+![](https://github.com/LauraGx/Flow2-NodeRed/blob/main/flow2.png)
 
 # Créditos
 
